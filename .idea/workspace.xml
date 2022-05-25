@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b25b82eb-ba2a-4f08-a7ef-32f6c3a7cd11" name="Changes" comment="Изучение аннотаций spring">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprmnchz/spring/spring_introduction/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprmnchz/spring/spring_introduction/ConfigWithAnnotations1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprmnchz/spring/spring_introduction/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprmnchz/spring/spring_introduction/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprmnchz/spring/spring_introduction/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/spring_introduction/ScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/spring_introduction/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/spring_introduction/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/spring_introduction/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/spring_introduction/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprmnchz/spring/spring_introduction/Test5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28tHbEIud8Ux5K7FfyXUyKr0rLB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sprmn/IdeaProjects/jar_files/javax.annotation-api-1.3.2.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d9347af4f11781a325304ed6e75c1197&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sprmn\IdeaProjects\spring\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScopeTest">
+    <configuration name="ConfigWithAnnotations1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sprmnchz.spring.spring_introduction.ConfigWithAnnotations1" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprmnchz.spring.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sprmnchz.spring.spring_introduction.ScopeTest" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprmnchz.spring.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sprmnchz.spring.spring_introduction.Test3" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprmnchz.spring.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sprmnchz.spring.spring_introduction.Test4" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprmnchz.spring.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sprmnchz.spring.spring_introduction.Test5" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprmnchz.spring.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScopeTest" />
+        <item itemvalue="Application.ConfigWithAnnotations1" />
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25b82eb-ba2a-4f08-a7ef-32f6c3a7cd11" name="Changes" comment="" />
+      <created>1652029033587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652029033587</updated>
+      <workItem from="1652029035142" duration="7477000" />
+      <workItem from="1652070113872" duration="3992000" />
+      <workItem from="1652128868128" duration="3010000" />
+      <workItem from="1652199454683" duration="981000" />
+      <workItem from="1652724485817" duration="1339000" />
+      <workItem from="1652985496201" duration="1618000" />
+      <workItem from="1652987140843" duration="473000" />
+      <workItem from="1653500169071" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Изучение аннотаций spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изучение аннотаций spring" />
+  </component>
+</project>
